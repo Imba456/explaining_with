@@ -1,5 +1,5 @@
 # Explaining with
-A repository holding a range of PBIX and other references files used for the blog series 'Explaning with'
+A repository holding references files used for the blog series 'Explaning with'
 
-## Explaning with PBI
+## Power BI
 - Boxplots in Power BI without custom visuals
