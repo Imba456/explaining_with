@@ -1,5 +1,5 @@
 # Explaining with
-A repository holding references files used for the blog series 'Explaining with', where I go through a series of data analytics concepts and explain them using prominent data tools.
+A repository holding references files used for the blog series 'Explaining with', where I go through a series of data analytics concepts and explain them with build out examples.
 I walk through why we'd want to build out certain charts or calculations as well as how to put it together within the tools.
 
 ## Power BI
