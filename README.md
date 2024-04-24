@@ -1,5 +1,6 @@
 # Explaining with
-A repository holding references files used for the blog series 'Explaining with'
+A repository holding references files used for the blog series 'Explaining with', where I go through a series of data analytics concepts and explain them using prominent data tools.
+I walk through why we'd want to build out certain charts or calculations as well as how to put it together within the tools.
 
 ## Power BI
 - Link to the blog [Boxplots in Power BI without custom visuals](https://www.thedataschool.co.uk/robbin-vernooij/power-bi-boxplots-without-custom-visuals/) and link to the [pbix file](https://github.com/Imba456/explaining_with/blob/main/Power%20BI/Box%20Plots%20without%20Custom%20Visuals.pbix)
