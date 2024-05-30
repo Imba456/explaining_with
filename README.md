@@ -7,3 +7,6 @@ I walk through why we'd want to build out certain charts or calculations as well
 - Link to the blog [Explaning with: Power BI Customer Life Time Value Matrix](https://www.thedataschool.co.uk/robbin-vernooij/power-bi-customer-lifetime-value/) and link to the [pbix file](https://github.com/Imba456/explaining_with/blob/main/Power%20BI/Customer%20Life%20Time%20Value%20Matrix.pbix)
 - link to the blog [Explaining with: Power BI Visual Calculations Before and After](https://www.thedataschool.co.uk/robbin-vernooij/power-bi-visual-calculations-before-and-after/) and link to the [pbix file](https://github.com/Imba456/explaining_with/blob/main/Power%20BI/Visual%20Calculations%20before%20and%20after.pbix)
 - Link to the blog [Explaining with: Relative time calculations in Power BI using parameters and DAX](https://www.thedataschool.co.uk/robbin-vernooij/relative-time-calculations-in-power-bi-using-parameters-and-dax/) and the link to the [pbix file](https://github.com/Imba456/explaining_with/blob/main/Power%20BI/Support%20Desk%20Ticket%20Relative%20Date%20Investigations.pbix)
+
+## Tableau
+- Link to the blog (to be written) and link to the [twbx file](https://github.com/Imba456/explaining_with/blob/main/Tableau/Data%20Normalization.twbx)
