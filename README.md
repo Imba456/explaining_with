@@ -9,4 +9,4 @@ I walk through why we'd want to build out certain charts or calculations as well
 - Link to the blog [Explaining with: Relative time calculations in Power BI using parameters and DAX](https://www.thedataschool.co.uk/robbin-vernooij/relative-time-calculations-in-power-bi-using-parameters-and-dax/) and the link to the [pbix file](https://github.com/Imba456/explaining_with/blob/main/Power%20BI/Support%20Desk%20Ticket%20Relative%20Date%20Investigations.pbix)
 
 ## Tableau
-- Link to the blog Explaining with: Tableau & PowerBI Data Normalization and Percentile calculations(to be written) and link to the [twbx file](https://github.com/Imba456/explaining_with/blob/main/Tableau/Data%20Normalization.twbx)
+- Link to the blog Explaining with: Tableau & PowerBI Data Normalization and Percentile calculations (to be written) and link to the [twbx file](https://github.com/Imba456/explaining_with/blob/main/Tableau/Data%20Normalization.twbx)
